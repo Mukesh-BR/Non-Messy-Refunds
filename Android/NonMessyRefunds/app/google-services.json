@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "623394338482",
+    "firebase_url": "https://nonmessyrefunds.firebaseio.com",
+    "project_id": "nonmessyrefunds",
+    "storage_bucket": "nonmessyrefunds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623394338482:android:d3a57a8a3fa07291",
+        "android_client_info": {
+          "package_name": "com.example.nonmessyrefunds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623394338482-ol9pu7mn5io20538kjo92fl29g6i24sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nonmessyrefunds",
+            "certificate_hash": "4d415c1421b891bdd3b499cafc159e76f742a027"
+          }
+        },
+        {
+          "client_id": "623394338482-gk04d6dk9nr6tp2jfef8rdbh9n08bqu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPyXK0mGn-tK759GX3Rph-2PufwSjFJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623394338482-gk04d6dk9nr6tp2jfef8rdbh9n08bqu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
